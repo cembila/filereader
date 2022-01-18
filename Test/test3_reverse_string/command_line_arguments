@@ -1,0 +1,5 @@
+
+
+Command Line Arguments
+-input input.txt -inputType string -operations reverse -threads 1 -output output.txt
+
